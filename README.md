@@ -1,2 +1,2 @@
 # Virtual-pet-1-c35
-Output link:https://Mrcoder005/VirtualPet-2
+Output link:https://Mrcoder-005.github.io/VirtualPet-2
